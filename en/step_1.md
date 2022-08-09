@@ -1,59 +1,19 @@
-## Introduction
+If you are working on a physical SenseHAT, it can be tricky to design the image you want to use for the LED matrix.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+The simplest way is to get a piece of graph paper you can use to create an 8 by 8 grid. 
+Draw lines around a square with sides of 8 unit lengths, and colour in each 'pixel' the way you would like to make your image:
+[!Image showing a simple grid of 8 by 8 squares](images/grid.gif)
 
-### What you will make
+To help you design an image that will fit on the LED array, we have also created a simple online tool in Scratch. You can show different colours by clicking on each square in the array that appears.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+--- task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+**Try:** Use the Pick-a-Pixel tool to design an image you would like to display.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+**Tip:** Don't make it too complex, or it will be hard to make out on the LED array (and difficult to animate).
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+(<iframe src="https://scratch.mit.edu/projects/715438479/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>)
 
-+ A computer or tablet capable of running Scratch 3
+--- /task ---
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+When you have finished designing your image, transcribe each of the pixel colours to a term in your image list, making sure you have 8 terms separated by commas on each line.
