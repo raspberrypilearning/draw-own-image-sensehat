@@ -12,7 +12,7 @@ To help you design an image that will fit on the LED array, we have also created
 
 **Tip:** Don't make it too complex, or it will be hard to make out on the LED array (and difficult to animate).
 
-(<iframe src="https://scratch.mit.edu/projects/715438479/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>)
+<iframe src="https://scratch.mit.edu/projects/715438479/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 --- /task ---
 
