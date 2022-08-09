@@ -2,7 +2,7 @@ If you are working on a physical SenseHAT, it can be tricky to design the image 
 
 The simplest way is to get a piece of graph paper you can use to create an 8 by 8 grid. 
 Draw lines around a square with sides of 8 unit lengths, and colour in each 'pixel' the way you would like to make your image:
-![Image showing a simple grid of 8 by 8 squares](images/grid.png)
+![Image showing a simple grid of 8 by 8 squares](images/grid.png){:width="200px"}
 
 To help you design an image that will fit on the LED array, we have also created a simple online tool in Scratch. You can show different colours by clicking on each square in the array that appears.
 
