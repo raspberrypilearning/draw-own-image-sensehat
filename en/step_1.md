@@ -6,14 +6,10 @@ Draw lines around a square with sides of 8 unit lengths, and colour in each 'pix
 
 To help you design an image that will fit on the LED array, we have also created a simple online tool in Scratch. You can show different colours by clicking on each square in the array that appears.
 
---- task ---
-
-**Try:** Use the Pick-a-Pixel tool to design an image you would like to display.
+Use the Pick-a-Pixel tool to design an image you would like to display.
 
 **Tip:** Don't make it too complex, or it will be hard to make out on the LED array (and difficult to animate).
 
 <iframe src="https://scratch.mit.edu/projects/715438479/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
---- /task ---
 
 When you have finished designing your image, transcribe each of the pixel colours to a term in your image list, making sure you have 8 terms separated by commas on each line.
